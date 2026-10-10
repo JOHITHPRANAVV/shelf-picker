@@ -1,0 +1,14 @@
+# Arduino / build output
+build/
+*.hex
+*.elf
+*.bin
+
+# VS Code (keep shared settings only)
+.vscode/*
+!.vscode/arduino.json
+!.vscode/c_cpp_properties.json
+
+# OS
+.DS_Store
+Thumbs.db
